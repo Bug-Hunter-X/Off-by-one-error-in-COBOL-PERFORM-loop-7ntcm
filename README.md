@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in COBOL PERFORM loops and how to fix it. The `bug.cob` file contains code with the error, and the `bugSolution.cob` file contains corrected code.
